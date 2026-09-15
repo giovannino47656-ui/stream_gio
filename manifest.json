@@ -1,0 +1,26 @@
+[
+  {
+    "id": "example-provider",
+    "name": "Example Provider",
+    "description": "Provider di esempio compatibile con Nuvio.",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "supportedTypes": [
+      "movie",
+      "tv"
+    ],
+    "filename": "providers/example-provider.js",
+    "enabled": false,
+    "logo": "",
+    "contentLanguage": [
+      "it"
+    ],
+    "formats": [
+      "mp4",
+      "mkv"
+    ],
+    "limited": true,
+    "disabledPlatforms": [],
+    "supportsExternalPlayer": true
+  }
+]
